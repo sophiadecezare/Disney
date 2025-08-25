@@ -8,7 +8,7 @@ O site tem como tema **Disney**, abordando filmes clássicos, personagens icôni
 - **filmes.html** → Página sobre filmes
 - **parques.html** → Página sobre parques
 - **style.css** → Estilização do site
-- **images/** → Contém imagens utilizadas
+- **imagens/** → Contém imagens utilizadas
 - **favicon.ico** → Ícone do site
 
 ## Paleta de cores
@@ -25,3 +25,4 @@ A classe `.container` define largura máxima e centraliza o conteúdo com `margi
 
 ## Publicação
 O site pode ser publicado no **GitHub Pages**.
+
