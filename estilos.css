@@ -2,11 +2,11 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   background-color: #f0f8ff;
-  color: #DB7093;
+  color: #09447a;
 }
 
 header {
-  background: #DB7093;
+  background: #09447a;
   color: white;
   padding: 15px;
   display: flex;
@@ -27,22 +27,25 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+  
 }
 
 .container {
-  max-width: 900px;
+  max-width: 1900px;
   margin: 0 auto;
   padding: 20px;
+  
 }
 
 h1 {
-  color: #DB7093;
+  color:#09447a;
 }
 
 footer {
-  background: #DB7093;
+  background:#09447a;
   color: white;
   text-align: center;
   padding: 10px;
   margin-top: 20px;
 }
+
